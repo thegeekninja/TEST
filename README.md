@@ -1,2 +1,2 @@
-# AMAOEd-CompProg1-Week004
+# TEST
 My very first C++ application
